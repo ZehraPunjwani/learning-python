@@ -1,7 +1,7 @@
 #
 # Written By: Zehra Punjwani
 # Date: December 2014
-# Deatils: This program computes the average exam grade for multiple students.
+# Detils: This program computes the average exam grade for multiple students.
 #
 
 # Obtain the number of exam grades per student.
